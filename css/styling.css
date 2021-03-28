@@ -1,0 +1,56 @@
+body{
+    background-color:  #dbe2ef !important ;
+    overflow-x: hidden;
+    
+}
+.navColour a{
+    color: #EEB61A !important;
+}
+.navBarSizing{
+    opacity: 0.8;
+}
+.navBarSizing{
+    background-color:   #f9f7f7 !important;
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.navBarSizing a{
+    color:  #112d4e;
+}
+.navBarSizing a:hover{
+    color: #EEB61A !important;
+}
+.navigationBar :hover{
+    opacity:1;
+    transition: 0.4s;
+}
+.navigationBar{
+margin-bottom: 3.5%;
+}
+.searchBar{
+    width: 74% !important;
+    margin-right: 0px !important;  
+} 
+.btn-outline-warning{
+    color: black !important;
+    border-color: black !important;
+}
+.btn-outline-warning:hover{
+    border-color: #EEB61A !important;
+}
+
+.jumboSpacing{    
+    background-image: url("../images/download.jpg");
+    background-size: cover;
+}
+.btn-light:hover{
+    border-color: #EEB61A !important;
+    background-color: #EEB61A !important;
+}
+
+.container-box{
+    background-color: #f9f7f7;
+    margin-bottom: 300px;
+}
+
